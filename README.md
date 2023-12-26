@@ -1,3 +1,3 @@
 # PRODIGY_SD_03
 
-## Simple Contact Management System Using MERN Stack
+# Contact Management System Using MERN Stack
